@@ -1,0 +1,6 @@
+path: C:/Users/31136/yolo_CelebA_Spoof/dataset
+train: images/train
+val: images/val
+
+nc: 2
+names: ['spoof', 'real']

@@ -1,0 +1,10 @@
+path: C:/Users/31136/yolo_CelebA_Spoof/models/msu_msfd/dataset
+train:
+  attack: train/attack/
+  real: train/real/
+test:
+  attack: test/attack/
+  real: test/real/
+
+nc: 2
+names: ['spoof', 'real']

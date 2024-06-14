@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./YOLO_CELEBA_SPOOF/model",
+        "./YOLO_CELEBA_SPOOF/utils",
+        "./YOLO_CELEBA_SPOOF/main",
+    ]
+}
